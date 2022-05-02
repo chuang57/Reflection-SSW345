@@ -15,7 +15,6 @@
 	3. In future projects, I will definitely utilize the practice of conducting SCRUM meetings at set times throughout the week. During the meeting we would focus on the three questions - what did you do since the last Scrum meeting, what will you do before the next meeting, and do you have any obstacles in the way of doing your work? These questions helped us to track the progress of our bot, identify and assign work to be done on the bot and solve any conflicts that we may run into during the development of the bot. Therefore, I will definitely continue to conduct SCRUM meetings on any future projects that I do. 
 
 * Overall
-
-	Considering all the design methods, implementation practices, and software processes I feel that the most useful to our project 
+	* Considering all the design methods, implementation practices, and software processes I feel that the most useful to our project 
 
 
